@@ -8,6 +8,60 @@ import luckyStars from '../../images/origami/lucky stars.webp';
 
 export const galleryItems = [
   {
+    name: 'sea turtle',
+    image: turtles,
+    date: '2026-03-31',
+    difficulty: 2
+  },
+  {
+    name: 'bunny',
+    image: bunny,
+    date: '2026-03-24',
+    difficulty: 2
+  },
+  {
+    name: 'clover',
+    image: clover,
+    date: '2026-03-17',
+    difficulty: 1
+  },
+  {
+    name: 'cat',
+    image: cat,
+    date: '2026-03-10',
+    difficulty: 3
+  },
+  {
+    name: 'miura',
+    image: miura,
+    date: '2026-03-01',
+    difficulty: 3
+  },
+  {
+    name: 'cranes',
+    image: cranes,
+    date: '2026-02-24',
+    difficulty: 1
+  },
+  {
+    name: 'lotus',
+    image: lotus,
+    date: '2026-02-03',
+    difficulty: 2
+  },
+  {
+    name: 'godzilla',
+    image: godzilla,
+    date: '2026-01-13',
+    difficulty: 4
+  },
+  {
+    name: 'masu box',
+    image: masuBox,
+    date: '2026-01-13',
+    difficulty: 2
+  },
+  {
     name: 'christmas tree',
     image: christmasTree,
     date: '2025-12-09',
